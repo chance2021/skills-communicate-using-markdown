@@ -8,7 +8,9 @@
 -->
 
 # Communicate using Markdown
-# This is header 1
+# Title
+## Subtitle
+### Another Heading
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
 </header>
